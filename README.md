@@ -1,2 +1,2 @@
 # solidity-cheatsheet
-Personal Solidity Chearsheet
+Solidity Chearsheet for personal use. @basant0x01
